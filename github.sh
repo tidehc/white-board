@@ -1,2 +1,2 @@
 #!/bin/bash
-/var/www/white-board.biz/htdocs/php github.php
+/var/www/white-board.biz/htdocs/php github2.php

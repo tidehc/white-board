@@ -1,1 +1,1 @@
-<?php `git pull origin master` ?>
+<?php `/var/www/white-board.biz/htdocs/github.sh` ?>
