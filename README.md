@@ -1,7 +1,7 @@
 Whiteboard Computer Training / Learning Management System
 ==========
 
-To submit code make a pull request.
+To submit code make a pull request
 -----------------------------------
 More information on pull requests: [https://help.github.com/articles/using-pull-requests](https://help.github.com/articles/using-pull-requests)
 
