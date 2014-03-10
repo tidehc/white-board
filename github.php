@@ -1,1 +1,1 @@
-<?php `/var/www/white-board.biz/htdocs/github.sh` ?>
+<?php `sudo git pull origin master` ?>
