@@ -1,4 +1,0 @@
-Whiteboard
-==========
-
-By: Logan Schmidt
